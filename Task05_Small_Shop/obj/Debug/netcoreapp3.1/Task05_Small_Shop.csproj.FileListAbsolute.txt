@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Lesson03\Task05_Small_Shop\bin\Debug\netcoreapp3.1\Task05_Small_Shop.exe
+C:\Users\Kiril\source\repos\Lesson03\Task05_Small_Shop\bin\Debug\netcoreapp3.1\Task05_Small_Shop.deps.json
+C:\Users\Kiril\source\repos\Lesson03\Task05_Small_Shop\bin\Debug\netcoreapp3.1\Task05_Small_Shop.runtimeconfig.json
+C:\Users\Kiril\source\repos\Lesson03\Task05_Small_Shop\bin\Debug\netcoreapp3.1\Task05_Small_Shop.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Lesson03\Task05_Small_Shop\bin\Debug\netcoreapp3.1\Task05_Small_Shop.dll
+C:\Users\Kiril\source\repos\Lesson03\Task05_Small_Shop\bin\Debug\netcoreapp3.1\Task05_Small_Shop.pdb
+C:\Users\Kiril\source\repos\Lesson03\Task05_Small_Shop\obj\Debug\netcoreapp3.1\Task05_Small_Shop.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Lesson03\Task05_Small_Shop\obj\Debug\netcoreapp3.1\Task05_Small_Shop.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Lesson03\Task05_Small_Shop\obj\Debug\netcoreapp3.1\Task05_Small_Shop.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Lesson03\Task05_Small_Shop\obj\Debug\netcoreapp3.1\Task05_Small_Shop.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Lesson03\Task05_Small_Shop\obj\Debug\netcoreapp3.1\Task05_Small_Shop.dll
+C:\Users\Kiril\source\repos\Lesson03\Task05_Small_Shop\obj\Debug\netcoreapp3.1\Task05_Small_Shop.pdb
+C:\Users\Kiril\source\repos\Lesson03\Task05_Small_Shop\obj\Debug\netcoreapp3.1\Task05_Small_Shop.genruntimeconfig.cache
