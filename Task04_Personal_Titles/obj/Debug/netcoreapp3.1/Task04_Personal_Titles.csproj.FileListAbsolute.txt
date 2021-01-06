@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Lesson03\Task04_Personal_Titles\obj\Debug\netcoreapp3.1\Task04_Personal_Titles.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Lesson03\Task04_Personal_Titles\obj\Debug\netcoreapp3.1\Task04_Personal_Titles.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Lesson03\Task04_Personal_Titles\obj\Debug\netcoreapp3.1\Task04_Personal_Titles.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Lesson03\Task04_Personal_Titles\obj\Debug\netcoreapp3.1\Task04_Personal_Titles.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Lesson03\Task04_Personal_Titles\bin\Debug\netcoreapp3.1\Task04_Personal_Titles.exe
+C:\Users\Kiril\source\repos\Lesson03\Task04_Personal_Titles\bin\Debug\netcoreapp3.1\Task04_Personal_Titles.deps.json
+C:\Users\Kiril\source\repos\Lesson03\Task04_Personal_Titles\bin\Debug\netcoreapp3.1\Task04_Personal_Titles.runtimeconfig.json
+C:\Users\Kiril\source\repos\Lesson03\Task04_Personal_Titles\bin\Debug\netcoreapp3.1\Task04_Personal_Titles.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Lesson03\Task04_Personal_Titles\bin\Debug\netcoreapp3.1\Task04_Personal_Titles.dll
+C:\Users\Kiril\source\repos\Lesson03\Task04_Personal_Titles\bin\Debug\netcoreapp3.1\Task04_Personal_Titles.pdb
+C:\Users\Kiril\source\repos\Lesson03\Task04_Personal_Titles\obj\Debug\netcoreapp3.1\Task04_Personal_Titles.dll
+C:\Users\Kiril\source\repos\Lesson03\Task04_Personal_Titles\obj\Debug\netcoreapp3.1\Task04_Personal_Titles.pdb
+C:\Users\Kiril\source\repos\Lesson03\Task04_Personal_Titles\obj\Debug\netcoreapp3.1\Task04_Personal_Titles.genruntimeconfig.cache
