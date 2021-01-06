@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Lesson03\Task11_Fruit_Shop\bin\Debug\netcoreapp3.1\Task11_Fruit_Shop.exe
+C:\Users\Kiril\source\repos\Lesson03\Task11_Fruit_Shop\bin\Debug\netcoreapp3.1\Task11_Fruit_Shop.deps.json
+C:\Users\Kiril\source\repos\Lesson03\Task11_Fruit_Shop\bin\Debug\netcoreapp3.1\Task11_Fruit_Shop.runtimeconfig.json
+C:\Users\Kiril\source\repos\Lesson03\Task11_Fruit_Shop\bin\Debug\netcoreapp3.1\Task11_Fruit_Shop.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Lesson03\Task11_Fruit_Shop\bin\Debug\netcoreapp3.1\Task11_Fruit_Shop.dll
+C:\Users\Kiril\source\repos\Lesson03\Task11_Fruit_Shop\bin\Debug\netcoreapp3.1\Task11_Fruit_Shop.pdb
+C:\Users\Kiril\source\repos\Lesson03\Task11_Fruit_Shop\obj\Debug\netcoreapp3.1\Task11_Fruit_Shop.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Lesson03\Task11_Fruit_Shop\obj\Debug\netcoreapp3.1\Task11_Fruit_Shop.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Lesson03\Task11_Fruit_Shop\obj\Debug\netcoreapp3.1\Task11_Fruit_Shop.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Lesson03\Task11_Fruit_Shop\obj\Debug\netcoreapp3.1\Task11_Fruit_Shop.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Lesson03\Task11_Fruit_Shop\obj\Debug\netcoreapp3.1\Task11_Fruit_Shop.dll
+C:\Users\Kiril\source\repos\Lesson03\Task11_Fruit_Shop\obj\Debug\netcoreapp3.1\Task11_Fruit_Shop.pdb
+C:\Users\Kiril\source\repos\Lesson03\Task11_Fruit_Shop\obj\Debug\netcoreapp3.1\Task11_Fruit_Shop.genruntimeconfig.cache
