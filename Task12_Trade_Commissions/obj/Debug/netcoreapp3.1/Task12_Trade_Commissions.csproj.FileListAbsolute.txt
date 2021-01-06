@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Lesson03\Task12_Trade_Commissions\bin\Debug\netcoreapp3.1\Task12_Trade_Commissions.exe
+C:\Users\Kiril\source\repos\Lesson03\Task12_Trade_Commissions\bin\Debug\netcoreapp3.1\Task12_Trade_Commissions.deps.json
+C:\Users\Kiril\source\repos\Lesson03\Task12_Trade_Commissions\bin\Debug\netcoreapp3.1\Task12_Trade_Commissions.runtimeconfig.json
+C:\Users\Kiril\source\repos\Lesson03\Task12_Trade_Commissions\bin\Debug\netcoreapp3.1\Task12_Trade_Commissions.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Lesson03\Task12_Trade_Commissions\bin\Debug\netcoreapp3.1\Task12_Trade_Commissions.dll
+C:\Users\Kiril\source\repos\Lesson03\Task12_Trade_Commissions\bin\Debug\netcoreapp3.1\Task12_Trade_Commissions.pdb
+C:\Users\Kiril\source\repos\Lesson03\Task12_Trade_Commissions\obj\Debug\netcoreapp3.1\Task12_Trade_Commissions.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Lesson03\Task12_Trade_Commissions\obj\Debug\netcoreapp3.1\Task12_Trade_Commissions.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Lesson03\Task12_Trade_Commissions\obj\Debug\netcoreapp3.1\Task12_Trade_Commissions.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Lesson03\Task12_Trade_Commissions\obj\Debug\netcoreapp3.1\Task12_Trade_Commissions.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Lesson03\Task12_Trade_Commissions\obj\Debug\netcoreapp3.1\Task12_Trade_Commissions.dll
+C:\Users\Kiril\source\repos\Lesson03\Task12_Trade_Commissions\obj\Debug\netcoreapp3.1\Task12_Trade_Commissions.pdb
+C:\Users\Kiril\source\repos\Lesson03\Task12_Trade_Commissions\obj\Debug\netcoreapp3.1\Task12_Trade_Commissions.genruntimeconfig.cache
